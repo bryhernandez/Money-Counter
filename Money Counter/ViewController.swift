@@ -64,7 +64,7 @@ class ViewController: UIViewController {
      * in the getTotal mehtod we take the number value of each
      * coin/bill and do the math to what it equals. For example,
      * 2 nickels would 2*0.05, which would give us the total of
-     * 0.10.
+     * 0.10. 
      */
     @IBAction func getTotal(_ sender: Any) {
         var total = 0.0;
